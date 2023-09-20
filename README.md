@@ -1,4 +1,4 @@
-# AD.PET
+# FINANCE
 
 Aplicação feita para adoção de animais
 
