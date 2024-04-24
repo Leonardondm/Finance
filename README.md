@@ -1,6 +1,6 @@
 # FINANCE
 
-Aplicação feita para adoção de animais
+Aplicação feita para que o usuario possa organizar suas finanças
 
 
 # Sobre o projeto
